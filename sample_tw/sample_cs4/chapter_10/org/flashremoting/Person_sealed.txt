@@ -1,0 +1,20 @@
+﻿package org.flashremoting
+{
+   public class Person {
+	
+	  // 定义所有属性
+	  public var name:String;
+	  public var surname:String;
+	  public var country:String;
+	  public var favourites_artists:Array;
+	   
+      // 定义一个方法
+      public function printDetails():void{
+		// 遍历对象属性及其值
+		trace("name======="+this.name);
+		trace("surname======="+this.surname);
+		trace("country======="+this.country);
+		trace("favourites_artists======="+this.favourites_artists);
+      }
+   }
+}

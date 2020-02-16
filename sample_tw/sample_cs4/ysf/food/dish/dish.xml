@@ -1,0 +1,71 @@
+﻿<food>
+ <meat>
+ <dish id="">德州扒雞</dish>
+ <dish id="">宮保雞丁</dish>
+ <dish id="">火腿絲豆苗</dish>
+ <dish id="">尖椒牛柳</dish>
+ <dish id="">芥末鴨掌</dish>
+ <dish id="">玫香回鍋肉</dish>
+ <dish id="">西蘭花牛柳</dish>
+ <dish id="">香菇子雞煲</dish>
+ <dish id="">洋蔥牛肉煲</dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+<dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+
+
+
+
+
+
+
+
+
+ </meat>
+ <seafood>
+ <dish id="">水晶蝦仁</dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ </seafood> 
+ <vegetable>
+ <dish id="">魚香茄子煲</dish>
+ <dish id="">鴛鴦瓜球</dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ </vegetable>
+ <soup>
+ <dish id="">宋嫂魚羹</dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ </soup>
+ <staple>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ </staple>
+ <biscuit>
+ <dish id="">糯米燒賣</dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ <dish id=""></dish>
+ </biscuit>
+</food>

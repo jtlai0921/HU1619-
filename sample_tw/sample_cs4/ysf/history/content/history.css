@@ -1,0 +1,33 @@
+headline {
+  font-family: 宋体,sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color:#cccccc
+  display: block;
+}
+subheadline {
+  font-family: 宋体,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  display: block;
+}
+mainBody {
+  font-family: 宋体,sans-serif;
+  font-size: 14px;
+  display: block;
+}
+tip {
+  font-family: 宋体,sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  color: #FF8B1F
+  display: inline;
+}
+A {
+  font-family: 宋体,sans-serif;
+  color:cccccc;
+  font-size: 14px;
+  display: inline;
+  text-decoration:underline;
+}
+

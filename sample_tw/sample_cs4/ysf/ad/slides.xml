@@ -1,0 +1,12 @@
+﻿<slides>
+  <slideNode imageURL="images/image1.jpg">秋日落葉</slideNode>
+  <slideNode imageURL="images/image2.jpg">海上揚帆</slideNode>
+  <slideNode imageURL="images/image3.jpg">沙丘紅日</slideNode>
+  <slideNode imageURL="images/image4.jpg">Windows XP桌面</slideNode>
+  <slideNode imageURL="images/image5.jpg">狂風沙丘</slideNode>
+  <slideNode imageURL="images/image6.jpg">史前巨石柱</slideNode>
+  <slideNode imageURL="images/image7.jpg">鬱金香花</slideNode>
+  <slideNode imageURL="images/AD_1.png">Flash Logo</slideNode>
+  <slideNode imageURL="images/AD_2.png">Flash Production</slideNode>
+  <slideNode imageURL="images/AD_3.png">Flash Production</slideNode>
+</slides>

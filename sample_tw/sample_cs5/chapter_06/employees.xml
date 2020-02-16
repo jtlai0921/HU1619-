@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+ <!-- 雇員列表 -->
+ <name EmpType="副代表">
+  <first>Leverling</first>
+  <last>Janet</last>
+ </name>
+ <name EmpType="銷售代表">
+  <first>鄭</first>
+  <last>安淇</last>
+ </name>
+ <name EmpType="採購經理">
+  <first>趙</first>
+  <last>曄</last>
+ </name>
+ <name EmpType="技術聯繫人">
+  <first>王</first>
+  <last>君如</last>
+ </name>
+ <name EmpType="技術聯繫人">
+  <first>Buchanan</first>
+  <last>Steven</last>
+ </name>
+</employee>

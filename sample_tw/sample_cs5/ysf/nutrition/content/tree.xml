@@ -1,0 +1,90 @@
+<node label="八大菜系">
+<node label="鲁菜">
+<node label="芙蓉干贝" isBranch="false" />
+<node label="两吃大虾" isBranch="false" />
+<node label="八宝豆腐箱" isBranch="false" />
+<node label="醋椒桂鱼" isBranch="false" />
+<node label="四喜鸭子" isBranch="false" />
+<node label="奶汤核桃仁" isBranch="false" />
+</node>
+<node label="川菜">
+<node label="酸菜鱼" isBranch="false" />
+<node label="叫化鸡" isBranch="false" />
+<node label="口袋豆腐" isBranch="false" />
+<node label="夫妻肺片" isBranch="false" />
+</node>
+<node label="苏菜">
+<node label="香炸藕夹" isBranch="false" />
+<node label="炸酥肠 " isBranch="false" />
+<node label="牡丹菜卷" isBranch="false" />
+<node label="松鼠鳜鱼" isBranch="false" />
+<node label="烩鱼香肉圆" isBranch="false" />
+</node>
+<node label="粤菜">
+<node label="北菇扒双菇" isBranch="false" />
+<node label="清蒸鲩鱼" isBranch="false" />
+<node label="苦瓜镶肉" isBranch="false" />
+<node label="糖醋咕老肉" isBranch="false" />
+</node>
+<node label="浙菜">
+<node label="西湖醋鱼" isBranch="false" />
+<node label="莼菜汤" isBranch="false" />
+<node label="南乳笋鸡" isBranch="false" />
+<node label="香炸响铃" isBranch="false" />
+<node label="盐水鸭条" isBranch="false" />
+</node>
+<node label="闽菜">
+<node label="糟青鱼干" isBranch="false" />
+<node label="苔菜明虾" isBranch="false" />
+<node label="醉排骨" isBranch="false" />
+</node>
+<node label="湘菜">
+<node label="玉米青豆羹" isBranch="false" />
+<node label="豆豉排骨" isBranch="false" />
+<node label="东安子鸡 " isBranch="false" />
+<node label="腊味合蒸" isBranch="false" />
+<node label="酱汁肘子" isBranch="false" />
+<node label="酸辣肚尖" isBranch="false" />
+</node>
+<node label="徽菜">
+<node label="蒸香菇盒" isBranch="false" />
+<node label="粟枣汤" isBranch="false" />
+<node label="茶叶熏鸡" isBranch="false" />
+<node label="葡萄鱼" isBranch="false" />
+<node label="徽式卤舌" isBranch="false" />
+</node>
+</node>
+<node label="食补">
+<node label="榨菜吃法" isBranch="false" />
+</node>
+<node label="家庭菜肴">
+<node label="炒茭白绿蚕豆" isBranch="false" />
+<node label="椰丝牛肉条" isBranch="false" />
+<node label="姜汁豆腐" isBranch="false" />
+<node label="雪菜蚕豆汤" isBranch="false" />
+<node label="榨菜炒鸡柳" isBranch="false" />
+</node>
+<node label="食疗">
+<node label="“粗食”健齿" isBranch="false" />
+<node label="多吃蔬菜也可补钙" isBranch="false" />
+<node label="多吃香蕉可防中风" isBranch="false" />
+<node label="多吃鱼可防早老性痴呆症" isBranch="false" />
+<node label="饭前喝点汤身体才健康" isBranch="false" />
+<node label="防癌的饮食原则" isBranch="false" />
+<node label="蜂蜜可治疗口腔溃疡" isBranch="false" />
+<node label="白萝卜生吃可消炎" isBranch="false" />
+<node label="鸡蛋蒸苹果克哮喘" isBranch="false" />
+</node>
+<node label="吃出健康">
+<node label="孩子发热忌吃鸡蛋" isBranch="false" />
+<node label="入秋食枣禁忌" isBranch="false" />
+<node label="当心“吃出来的近视”" isBranch="false" />
+<node label="饭后不宜一杯茶" isBranch="false" />
+<node label="鲜肉反复冷冻有害无益" isBranch="false" />
+<node label="入秋食枣禁忌" isBranch="false" />
+<node label="当心“吃出来的近视”" isBranch="false" />
+<node label="“粗食”健齿" isBranch="false" />
+<node label="孩子发热忌吃鸡蛋" isBranch="false" />
+<node label="入秋食枣禁忌" isBranch="false" />
+<node label="当心“吃出来的近视”" isBranch="false" />
+</node>
